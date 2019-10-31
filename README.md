@@ -1,2 +1,0 @@
-# JsArrays
-Created with CodeSandbox
